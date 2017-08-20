@@ -1,2 +1,2 @@
-# cc
-Cryptocoins Ontology
+# ontologies
+Cryptocoins Ontologies
