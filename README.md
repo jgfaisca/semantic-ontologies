@@ -1,2 +1,2 @@
-# ontologies
-Cryptocoins Ontologies
+# Semantic Ontologies
+Semantic ontologies repository
