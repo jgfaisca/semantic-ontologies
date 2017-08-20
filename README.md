@@ -1,1 +1,1 @@
-# Semantic ontologies repository
+Semantic ontologies repository
