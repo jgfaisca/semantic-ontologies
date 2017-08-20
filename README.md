@@ -1,2 +1,1 @@
-# cc
-Cryptocoins Ontology
+# Semantic ontologies repository
